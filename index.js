@@ -59,5 +59,6 @@ let test3 = !a.length && !b.length; // False (!a.length = true и !b.length = fa
 console.log (test3);
 let test4 = a === c; // False (a и c имеют разные типы данных)/
 console.log (test4);
+///
 
 
